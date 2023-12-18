@@ -48,7 +48,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [React](https://svelte.dev/) - JS Framework
+- [Svelte](https://svelte.dev/) - JS Framework
 
 
 
