@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Gloryjaw/Rock_paper_scissors_web_app)
-- Live Site URL: [Add live site URL here](https://657fe8a0201fdd7f2b6818b6--voluble-centaur-7fbce8.netlify.app)
+- Solution URL: [Git repo link](https://github.com/Gloryjaw/Rock_paper_scissors_web_app)
+- Live Site URL: [Live site url](https://657fe8a0201fdd7f2b6818b6--voluble-centaur-7fbce8.netlify.app)
 
 ## My process
 
