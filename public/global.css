@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&display=swap');
+:root{
+	--dark-text: hsl(229, 25%, 31%);
+	--header-outline: hsl(217, 16%, 45%);
+	--score-text: hsl(229, 64%, 46%);
+	--scissor-gradient-top:  hsl(39, 89%, 49%);
+	--scissor-gradient-bottom: hsl(40, 84%, 53%);
+	--paper-gradient-top:  hsl(230, 89%, 62%);
+	--paper-gradient-bottom: hsl(230, 89%, 65%);
+	--rock-gradient-top:  hsl(349, 71%, 52%);
+	--rock-gradient-bottom: hsl(349, 70%, 56%);
+
+}
+
+*, *::before, *::after{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+
+
+}
+body{
+	background: linear-gradient(hsl(214, 47%, 23%) , hsl(237, 49%, 15%));
+	background-attachment: fixed;
+	padding: 2em;
+
+}
+img{
+	display: block;
+	max-width: 100%;
+}
+button:hover{
+	cursor: pointer;
+}
+a {
+	color: rgb(0,100,200);
+	text-decoration: none;
+}
+
+
+
+a:visited {
+	color: rgb(0,80,160);
+}
+
+label {
+	display: block;
+}
+
+
+
+input:disabled {
+	color: #ccc;
+}
+@media (min-width: 500px){
+	body{
+		background-image: radial-gradient(circle, hsl(214, 47%, 23%), hsl(237, 49%, 15%));
+		padding-bottom: 1em;
+	}
+}
+
+
+
+
+
+
